@@ -1,0 +1,8 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+21:54:26	9121/9121	---M-Z	200	added ('OK')	text/html	etag:W/%226208db11-23a1%22	https://computerelite.github.io/	C:/My%20Web%20Sites/1111/computerelite.github.io/index.html	(from )
+21:54:26	5232/5232	---M-Z	404	error ('Not%20Found')	text/html	etag:W/%225f2a1ac7-247b%22	https://computerelite.github.io/robots.txt		(from )
+21:54:27	990/990	---MC-	200	added ('OK')	text/css	date:Mon,%2014%20Feb%202022%2002:54:25%20GMT	https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic	C:/My%20Web%20Sites/1111/fonts.googleapis.com/cssa99d.css	(from https://computerelite.github.io/)
+21:54:27	4436/4436	---M-Z	200	added ('OK')	text/css	etag:W/%226208db11-1154%22	https://computerelite.github.io/css/standard.css	C:/My%20Web%20Sites/1111/computerelite.github.io/css/standard.css	(from https://computerelite.github.io/)
+21:54:27	9853/9853	---M--	200	added ('OK')	image/png	etag:%226208db11-267d%22	https://computerelite.github.io/assets/CE_64px.png	C:/My%20Web%20Sites/1111/computerelite.github.io/assets/CE_64px.png	(from https://computerelite.github.io/)
+21:54:27	5127/5127	---M-Z	200	added ('OK')	application/javascript	etag:W/%226208db11-1407%22	https://computerelite.github.io/js/standard.js	C:/My%20Web%20Sites/1111/computerelite.github.io/js/standard.js	(from https://computerelite.github.io/)
+21:54:28	51/51	---MCZ	200	added ('OK')	text/plain	date:Mon,%2014%20Feb%202022%2002:54:27%20GMT	https://fonts.googleapis.com/robots.txt		(from https://computerelite.github.io/)
